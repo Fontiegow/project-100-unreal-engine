@@ -45,7 +45,7 @@ Project-100-UnrealEngine/
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/project-100-unreal-engine.git
+   git clone https://github.com/Fontiegow/project-100-unreal-engine.git
 
     Open the main-mega-project in Unreal Engine 5 to see all mechanics combined.
 
